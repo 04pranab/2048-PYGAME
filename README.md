@@ -1,6 +1,6 @@
 # 2048-GAME
 ## Used Language: _PYTHON_
-$${\color{red}BASIC 2048 GAME IN PYTHON USING PYGAME}$$
+$${\color{red}BASIC \space 2048 \space GAME \space IN \space \space PYTHON \space USING \space PYGAME}$$
 
 ### Modules used:
 #### 1. PYGAME
